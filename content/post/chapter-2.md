@@ -1,5 +1,4 @@
 ---
-date: 2017-04-10T11:00:59-04:00
 description: "Martina Manhartsberger"
 featured_image: "/images/martina-manhartsberger.jpg"
 title: "Usability Testing and Eyetracking"

@@ -1,5 +1,4 @@
 ---
-date: 2017-04-11T11:13:32-04:00
 description: "Vitaly Friedman"
 featured_image: "/images/vitaly-friedman.jpg"
 tags: []
